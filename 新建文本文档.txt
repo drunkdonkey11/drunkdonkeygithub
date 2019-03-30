@@ -1,0 +1,1 @@
+"pyqt-integration.qtdesigner.path": "e:\\´úÂëÑ§Ï°\\python Ñ§Ï°\\standardplot.py",
